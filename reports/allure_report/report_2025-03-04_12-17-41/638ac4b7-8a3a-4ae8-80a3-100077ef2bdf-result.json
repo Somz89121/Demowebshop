@@ -1,0 +1,1 @@
+{"name": "test_giftcards[creds0]", "status": "skipped", "parameters": [{"name": "creds", "value": "['akhi11189121@gmail.com', '11189121']"}], "start": 1741070861107, "stop": 1741070861107, "uuid": "e22e545d-3414-4ef2-973a-4f41f75759c1", "testCaseId": "5f9004442e6a343211cf6b388ad6fccf", "fullName": "test_testcase.Test_Case#test_giftcards"}

@@ -1,0 +1,1 @@
+error occured type object 'GiftcardsPg' has no attribute 'Shopping_xpath'

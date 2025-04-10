@@ -1,0 +1,25 @@
+error occured Message: no such element: Unable to locate element: {"method":"link text","selector":"(//div[@class='picture'])[5]"}
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77382C6A5+28789]
+	(No symbol) [0x00007FF773795B20]
+	(No symbol) [0x00007FF773628F9A]
+	(No symbol) [0x00007FF77367F346]
+	(No symbol) [0x00007FF77367F57C]
+	(No symbol) [0x00007FF7736D2B17]
+	(No symbol) [0x00007FF7736A736F]
+	(No symbol) [0x00007FF7736CF7E3]
+	(No symbol) [0x00007FF7736A7103]
+	(No symbol) [0x00007FF77366FFC0]
+	(No symbol) [0x00007FF773671273]
+	GetHandleVerifier [0x00007FF773B71AED+3458237]
+	GetHandleVerifier [0x00007FF773B8829C+3550316]
+	GetHandleVerifier [0x00007FF773B7DB9D+3507565]
+	GetHandleVerifier [0x00007FF7738F2C6A+841274]
+	(No symbol) [0x00007FF7737A09EF]
+	(No symbol) [0x00007FF77379CB34]
+	(No symbol) [0x00007FF77379CCD6]
+	(No symbol) [0x00007FF77378C119]
+	BaseThreadInitThunk [0x00007FF8DB26259D+29]
+	RtlUserThreadStart [0x00007FF8DC04AF38+40]
+

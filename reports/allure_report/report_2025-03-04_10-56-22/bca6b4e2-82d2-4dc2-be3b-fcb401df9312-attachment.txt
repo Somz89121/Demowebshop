@@ -1,0 +1,3 @@
+Computer is displayed
+txxt = COMPUTERS
+tx = HOME
