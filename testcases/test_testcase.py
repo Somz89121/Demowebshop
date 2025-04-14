@@ -1,8 +1,5 @@
-import config
 import pytest
-from ../config.test_config()
-from ../helpers.test_commonmethods import Helpers
-from helpers.test_commonmethods import Helpers
+from TDD.helpers.test_commonmethods import Helpers
 from TDD.pageobject.test_login import DemoPOM
 from TDD.pageobject.test_book import Book
 from TDD.pageobject.test_computers import ComputerPg
