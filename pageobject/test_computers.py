@@ -1,7 +1,7 @@
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-from helpers.test_commonmethods import Helpers
+from TDD.helpers.test_commonmethods import Helpers
 
 helper = Helpers()
 
