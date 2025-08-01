@@ -4,7 +4,7 @@ import pytest
 import datetime
 import os
 from selenium import webdriver
-from TDD.config.test_config import Test_Config
+from ..config.test_config import Test_Config
 
 @pytest.fixture
 def driver():

@@ -1,12 +1,12 @@
 import pytest
-from TDD.helpers.test_commonmethods import Helpers
-from TDD.pageobject.test_login import DemoPOM
-from TDD.pageobject.test_book import Book
-from TDD.pageobject.test_computers import ComputerPg
-from TDD.pageobject.test_digital import DigitalPg
-from TDD.pageobject.test_jewelry import JewelryPg
-from TDD.pageobject.test_giftcards import GiftcardsPg
-from TDD.pageobject.test_Apparel import ApparelPg
+from ..helpers.test_commonmethods import Helpers
+from ..pageobject.test_login import DemoPOM
+from ..pageobject.test_book import Book
+from ..pageobject.test_computers import ComputerPg
+from ..pageobject.test_digital import DigitalPg
+from ..pageobject.test_jewelry import JewelryPg
+from ..pageobject.test_giftcards import GiftcardsPg
+from ..pageobject.test_Apparel import ApparelPg
 App = ApparelPg()
 gift = GiftcardsPg()
 jewelry  = JewelryPg()
